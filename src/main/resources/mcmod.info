@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dimensionminerals",
+  "name": "dimensionminerals Mod",
+  "description": "dimensionminerals placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lothrazar"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
